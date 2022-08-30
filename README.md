@@ -57,7 +57,7 @@
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> &#10132;
     <a href="https://www.debian.org/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/344/debian.png" alt="debian" width="40" height="40"></a>
     <a href="https://www.alpinelinux.org/" target="_blank" rel="noreferrer"><img src="https://cdn.icon-icons.com/icons2/2148/PNG/512/alpine_linux_icon_132602.png" alt="alpine linux" width="40" height="40"></a>
-    <a href=""><img src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/256/manjaro-welcome-icon.png" alt="manjaro linux" width="40" height="40">
+    <a href="https://manjaro.org/"><img src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/256/manjaro-welcome-icon.png" alt="manjaro linux" width="40" height="40">
     
 
 <a href="https://www.microsoft.com/pl-pl/windows/compare-windows-10-home-vs-pro" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" alt="windows 10" width="40" height="40" /></a>
